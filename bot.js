@@ -19,7 +19,7 @@ bot.music.start(bot, {
 
 // Events.
 bot.on("ready", function() {
-    bot.user.setActivity(`Hi, Im The Music Bot`);
+    bot.user.setActivity(`Sailor Duck Music | +play`);
     console.log(`${bot.user.username} is Ready!`);
 });
 
