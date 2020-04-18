@@ -19,7 +19,7 @@ bot.music.start(bot, {
 
 // Events.
 bot.on("ready", function() {
-    bot.user.setActivity(`G-F Gaming | +play`);
+    bot.user.setActivity(`Sailor Duck Official | +play`);
     console.log(`${bot.user.username} is Ready!`);
 });
 
